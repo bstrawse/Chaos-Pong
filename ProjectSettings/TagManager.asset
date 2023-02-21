@@ -3,7 +3,21 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Player1Goal
+  - Player2Goal
+  - Player3Goal
+  - Player4Goal
+  - Ball
+  - Player1
+  - Player2
+  - Player3
+  - Player4
+  - Goal
+  - Goal1
+  - Goal2
+  - Goal3
+  - Goal4
   layers:
   - Default
   - TransparentFX
